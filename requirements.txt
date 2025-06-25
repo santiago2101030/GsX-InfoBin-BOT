@@ -1,0 +1,4 @@
+python-telegram-bot==20.3
+aiohttp==3.8.5
+colorama==0.4.6
+pycountry==22.3.5
